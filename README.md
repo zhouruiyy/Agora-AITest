@@ -15,7 +15,7 @@ Agora-AITest是一个用于测试声网RTC SDK音频功能的iOS项目，主要�
 
 1. 克隆项目到本地
    ```bash
-   git clone https://github.com/yourusername/Agora-AITest.git
+   git clone https://github.com/zhouruiyy/Agora-AITest
    cd Agora-AITest
    ```
 
